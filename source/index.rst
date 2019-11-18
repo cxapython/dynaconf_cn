@@ -2,7 +2,6 @@
 ^^^^^
 
 .. toctree::
-    :maxdepth: 2
-    :glob:
+    :maxdepth: 1
     
     准备开始/index
